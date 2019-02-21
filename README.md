@@ -1,6 +1,5 @@
 # Cookie-recipe
-===========
-[![Github Stars](https://github.com/mumonzinga/cookie-recipe/stargazers) [![Github Issues](https://github.com/mumonzinga/cookie-recipe/issues)]
+[Github Stars](https://github.com/mumonzinga/cookie-recipe/stargazers) [Github Issues](https://github.com/mumonzinga/cookie-recipe/issues)
 #### A website that shares a cookie-Recipe, 12/2/2019
 #### By ** [Iantheninja](https://github.com/iantheninja)**
 **[Mumo Nzinga](https://github.com/mumonzinga)**
